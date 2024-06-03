@@ -1,4 +1,4 @@
-const socket = io();
+const socket = io(https://kishor-irnak.github.io/StuddyBuddy2.0/);
 
 let userName;
 
